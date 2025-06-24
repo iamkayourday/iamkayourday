@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a learner of the **ALX Backend Program**, with a solid foundation in **Frontend Development** — HTML, CSS, JavaScript, and React.
+I’m a learner of the **ALX Backend Program**, with a solid foundation in **Frontend Development**  HTML, CSS, JavaScript, and React.
 
 What got me started in Software Engineering was my curiosity to understand how things work on the web — from user interfaces to the logic behind them. I believe great design meets great code, and I strive to bridge that gap.
 
