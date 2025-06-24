@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Abdulbasit 👋</h1>
+<p align="center">Frontend Developer | Backend Learner @ ALX | Passionate about building impactful web experiences</p>
 
-<!--
-**iamkayourday/iamkayourday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a learner of the **ALX Backend Program**, with a solid foundation in **Frontend Development** — HTML, CSS, JavaScript, and React.
+
+What got me started in Software Engineering was my curiosity to understand how things work on the web — from user interfaces to the logic behind them. I believe great design meets great code, and I strive to bridge that gap.
+
+### ✨ What inspires me:
+- Seeing real-world problems solved through simple, usable web interfaces  
+- The power of communities and open-source  
+- Learning in public and helping others grow along the way
+
+---
+
+## 🎯 My Vision
+
+I want to become a **world-class fullstack developer** who builds scalable, accessible, and user-friendly applications.  
+My aim is to **combine design and logic** to build tools that genuinely help people.
+
+---
+
+## 🚀 Projects I’d Love to Work On
+- Frontend apps that consume public APIs
+- Fullstack portfolio projects (React + Django)
+- Product landing pages and UI redesigns
+- Open-source tools that simplify daily workflows
+
+
+---
+
+## 🛠️ Tech Stack
+
+```javascript
+Frontend:   HTML | CSS | JavaScript | React | TailwindCSS  
+Backend:    Python (learning) | Django | Django REST Framework  
+Tools:      Git & GitHub | Figma | VS Code | Netlify | Vercel | Postman
+
