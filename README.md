@@ -23,6 +23,11 @@ My aim is to **combine design and logic** to build tools that genuinely help peo
 
 ---
 
+## ✨ Fun Fact
+I started with frontend, but the more I built, the more curious I became about how things work under the hood  now, I’m here, diving into the backend one function at a time 💻🧠
+
+---
+
 ## 🚀 Projects I’d Love to Work On
 - Frontend apps that consume public APIs
 - Fullstack portfolio projects (React + Django)
@@ -38,4 +43,11 @@ My aim is to **combine design and logic** to build tools that genuinely help peo
 Frontend:   HTML | CSS | JavaScript | React | TailwindCSS  
 Backend:    Python (learning) | Django | Django REST Framework  
 Tools:      Git & GitHub | Figma | VS Code | Netlify | Vercel | Postman
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulbasit-imam)  
+- 🌐 Portfolio Website *(coming soon)*  
+- 🐦 [Twitter](https://x.com/abdulbasit_KI)
+
 
