@@ -44,12 +44,5 @@ Frontend:   HTML | CSS | JavaScript | React | TailwindCSS
 Backend:    Python (learning) | Django | Django REST Framework  
 Tools:      Git & GitHub | Figma | VS Code | Netlify | Vercel | Postman
 
-## 📫 Let's Connect
-
-I'm always open to networking, collaboration, or a good conversation—feel free to reach out!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdulbasit-imam)
-- 🌐 Portfolio Website *(coming soon)*
-- 🐦 [Twitter](https://x.com/abdulbasit_KI)
 
 
